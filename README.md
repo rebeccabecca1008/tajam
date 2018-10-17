@@ -14,4 +14,4 @@ https://tajam.github.io
 Main Font: Roboto https://fonts.google.com/specimen/Roboto
 <br>Secondary Font: PLAYFAIR DISPLAY https://www.fontsquirrel.com/fonts/playfair-display
 <br>CSS Reset: Normalize https://necolas.github.io/normalize.css/
-Icons: Font Awesome http://fontawesome.io/
+<br>Icons: Font Awesome http://fontawesome.io/
